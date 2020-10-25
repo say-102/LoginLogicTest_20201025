@@ -10,6 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+//        빌드.그레이들 모듈 kotlin-android-extensions
+
         loginBtn.setOnClickListener {
 
 
