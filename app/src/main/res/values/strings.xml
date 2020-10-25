@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">로그인 연습</string>
+    <string name="email">이메일</string>
 </resources>
